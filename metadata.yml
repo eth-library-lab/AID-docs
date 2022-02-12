@@ -1,0 +1,15 @@
+---
+title: "AID: Towards Findable, Accessible, and Usable A.I."
+author: ETH Library Lab
+rights: MIT License
+fontsize: 16pt
+lang: en-US
+abstract: |
+  Your summary.
+mainfont: Gentium Basic
+monofont: Fira Code
+mathfont: Latin Modern Math
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
