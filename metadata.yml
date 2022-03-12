@@ -1,11 +1,11 @@
 ---
 title: "AID: Towards Findable, Accessible, and Usable A.I."
-author: ETH Library Lab
+author: Xiaozhe Yao @ ETH Library Lab
 rights: MIT License
 fontsize: 16pt
 lang: en-US
 abstract: |
-  Your summary.
+  AID is a digital library for machine learning models. The aim of the AID project is to eliminate the obstacles in the way of finding, accessing, and using machine learning models.
 mainfont: Gentium Basic
 monofont: Fira Code
 mathfont: Latin Modern Math

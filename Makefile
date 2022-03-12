@@ -38,7 +38,7 @@ PANDOC_COMMAND = pandoc
 # Per-format options
 
 HTML_ARGS = --template templates/html.html --katex --standalone --to html5
-PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex
+PDF_ARGS = -V toccolor=blue -V linkcolor=blue --template templates/pdf.latex --pdf-engine xelatex
 
 # Per-format file dependencies
 

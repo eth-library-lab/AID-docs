@@ -409,6 +409,12 @@ $if(beamer)$
 $else$
 \maketitle
 $endif$
+\begin{flushright}
+\begin{center}
+      \includegraphics[width=13em]{images/logo.png}
+  \end{center}
+  \end{flushright}
+\cleardoublepage
 $if(abstract)$
 \begin{abstract}
 $abstract$
