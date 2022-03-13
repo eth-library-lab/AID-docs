@@ -10,3 +10,9 @@ The history of this project can be backed to 2019, when the project was started 
 * Communicated with the community in different ways, including video, blog post, and enriched documents.
 
 The project is completely open source and can be found at its [GitHub Repository](https://github.com/autoai-org/aid) and the fork in [ETH Library Lab GitHub](https://github.com/eth-library-lab/aid). Licensed under permissive Apache Licence, AID project allows for any use, including commercial use. We, as the developer team, provides a [centralized library service](https://hub.autoai.org) for users to search and download models. Until March 2021, there are 8 models in the library, including object detection, optical character recognition, speech-to-text and many more.
+
+***Contacts***
+
+Xiaozhe Yao <[xiaozhe.yao@librarylab.ethz.ch](xiaozhe.yao@librarylab.ethz.ch)>
+
+(or <[xiaozhe@yao.sh](xiaozhe@yao.sh)>)
