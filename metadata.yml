@@ -8,6 +8,10 @@ abstract: |
   AID is a digital library for machine learning models. The aim of the AID project is to eliminate the obstacles in the way of finding, accessing, and using machine learning models.
 monofont: Fira Code
 mathfont: Latin Modern Math
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyfoot[RE,LO]{ETH Library Lab}
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true

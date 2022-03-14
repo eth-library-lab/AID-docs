@@ -1,3 +1,4 @@
+\pagebreak
 # Introduction
 
 ## Overview
@@ -42,7 +43,3 @@ For researchers, they are usually comfortable and can be productive with command
 Machine learning has become a core component of recent research and education advancement. However, the infrastructure for machine learning research and education is not well-developed. Unlike books, papers, and even data, machine learning models are not equipped with a unified, well-established platform for users to access. The lack of such a system leads to the common difficulties, challenges and the complaints we have described before. 
 
 As an initiative in a scientific library, ETH Library Lab is working towards building infrastructure and services for education, research and scientific discovery, in which machine learning algorithms are forms an essential component. Hence, it is of great interest the ETH Library Lab to develop, support and sustain such a system and provide it to the entire university, community and industry.
-
-## System Architecture
-
-## Current Status of the Project
