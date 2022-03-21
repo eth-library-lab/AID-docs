@@ -10,7 +10,7 @@ Just like many other software stores, users start with a search bar where they c
 
 ### Installing Models
 
-After finding the desired models, users can then install it in the graphical user interface that we provided, as shown below:
+After finding the desired models, users can then install it using the graphical user interface that we provide, as shown below:
 
 ![Installation of Models](https://res-1.cloudinary.com/autoai/image/upload/q_auto/v1/ghost-blog-images/Screenshot-from-2022-01-11-01.03.16%402x.png)
 
@@ -30,7 +30,7 @@ Once the image is built, users can start to create a corresponding container tha
 
 ### Access Models
 
-To start the container, ```aid start [container ID]``` will help to deploy HTTP service to the specified port number. Now users can check if the contianer run on the port successfully by using aid list containers. If running properly, the status of Running will be ```TRUE```.
+To start the container, ```aid start [container ID]``` will help to deploy HTTP service to the specified port number. Now users can check if the container run on the port successfully by using aid list containers. If running properly, the status of Running will be ```TRUE```.
 
 Then users can test the model by running ```aid infer [container ID] [argument]="content/path"``` and the solver will give the results. The help document (if given) will be displayed by running  ```aid help [package ID]```.
 
