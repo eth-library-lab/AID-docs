@@ -1,4 +1,4 @@
-## Propose New Models
+## Create and Share New Models
 
 ### Prepare Necessary Files
 
@@ -8,7 +8,7 @@ First, users will need to run ```aid new``` command. AID will prompt users to in
 
 ![Command for Creating New Repository](./images/new_repo.png)
 
-Note: AID will automatically create a new folder when download the template, so there is no need to create the folder beforehand.
+Note: AID will automatically create a new folder when downloading the template, so there is no need to create the folder beforehand.
 
 *Step 2*: Modify the Solvers
 
